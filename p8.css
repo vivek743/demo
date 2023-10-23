@@ -1,0 +1,9 @@
+.circle{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 10px solid pink;
+    border-top: 10px solid black;
+    animation: spinAnimate 3s ease-in-out 0s infinite normal;
+  
+}

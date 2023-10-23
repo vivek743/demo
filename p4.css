@@ -1,0 +1,35 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+    border: 3px solid white;
+}
+a{
+    margin-right: 200px;
+    text-decoration: none;
+}
+button{
+    color: black;
+    background-color: yellow;
+}
+.div{
+    height: 100px;
+    width: 100px;
+    color:blue;
+    border: 2px solid red;
+    display: inline-block;
+    margin: 25px;
+    
+}
+footer{
+    background-color: black;
+    text-align: center;
+}
+.main{
+    height: 500px;
+    background-image: url(https://wallpapers.com/images/hd/amazon-e-commerce-company-csw7ypxppsqd7yyr.jpg);
+}
